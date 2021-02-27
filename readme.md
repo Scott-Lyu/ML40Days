@@ -1,3 +1,1 @@
-
-
-#This is a project to learn python in 40 days. 
+#This is a project to learn python and how to git these files to my Github.
